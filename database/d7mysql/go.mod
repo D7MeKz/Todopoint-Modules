@@ -1,4 +1,4 @@
-module modules/v2/d7mysql
+module github.com/d7mekz/todopoint-common/d7mysql/v2
 
 go 1.22.1
 

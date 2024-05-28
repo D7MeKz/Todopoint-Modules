@@ -1,4 +1,4 @@
-module modules/v2/d7mongo
+module github.com/d7mekz/todopoint-common/d7mongo/v2
 
 go 1.22.1
 

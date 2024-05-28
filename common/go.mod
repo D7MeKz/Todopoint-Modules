@@ -1,4 +1,4 @@
-module modules/v2/common
+module github.com/d7mekz/todopoint-common/common/v2
 
 go 1.22.1
 
